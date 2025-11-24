@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Shubham Pandey
+![Shubham Pandey](https://github.com/user-attachments/assets/e84db8f1-86dc-46ad-90ee-5cf6e403a91d)
+
+# 👋 Hi,
 
 ### Data Science Undergraduate | Machine Learning Enthusiast 
 
