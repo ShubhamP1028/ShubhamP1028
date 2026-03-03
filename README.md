@@ -1,19 +1,15 @@
-![Shubham Pandey](https://github.com/user-attachments/assets/e84db8f1-86dc-46ad-90ee-5cf6e403a91d)
+<!-- ![Shubham Pandey](https://github.com/user-attachments/assets/e84db8f1-86dc-46ad-90ee-5cf6e403a91d) -->
 
-# 👋 Hi,
-
-### Data Science Undergraduate | Machine Learning Enthusiast 
+<h1 </h1>
+<h1 align='center' color=#32174d><b> Hello I'm Shubham</b> </h1>
+<h2 align='center' color='#32174d'><b>Data Science Student & Machine Learning Enthusiast </b></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham1028)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://pandeyshubham.vercel.app) 
-
 [![YouTube](https://img.shields.io/badge/Listen_on_Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gLUut1i7Npw)
----
 
-## 🔥 Current Focus
-
-
+<h2 align='center'><b>Current Focus</b></h2>
 
 - 🔭 Learning **Big Data** & **MLOps pipelines**
 - ⚔️ **Advanced NLP techniques and Azure cloud services**
@@ -22,21 +18,24 @@
 
 ---
 
-## 🛠️ Technical Skills
+<h2 align='center'><b>Technical Skills</b></h2>
 
-![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,flask,aws,docker,azure,mongo,postgres)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,flask,aws,docker,azure,mongo,postgres" />
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-259d9c?style=flat&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09a3d5?style=flat&logo=spacy&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-F2C811?style=flat&logo=apachehadoop&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![ANN](https://img.shields.io/badge/ANN-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=keras&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/NLTK-259d9c?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/spaCy-09a3d5?style=flat&logo=spacy&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-F2C811?style=flat&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/ANN-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=keras&logoColor=white">
+</p>
 
 ---
 <!---
@@ -60,17 +59,17 @@ NLU-to-SQL pipeline achieving 78% query match accuracy on 40K+ record database.
 ---
 --->
 
-## 📈 GitHub Stats
+<h2 align='center'><b>GitHub Stats</b></h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamp1028&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamp1028&show_icons=true&theme=dracula&count_private=true)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=shubhamp1028&theme=dracula&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamp1028&show_icons=true&theme=dracula&count_private=true) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamp1028&theme=dracula)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp1028&layout=compact&theme=dracula)
+<img src="https://streak-stats.demolab.com/?user=shubhamp1028&theme=dracula">
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp1028&layout=compact&theme=dracula) -->
 
 ---
 
-## 🏆 Certifications
+<h2 align='center'><b>Certifications</b></h2>
 
 <div align="center">
   <a href="https://www.coursera.org/account/accomplishments/records/9PPW53XGFZK7">
@@ -110,7 +109,7 @@ NLU-to-SQL pipeline achieving 78% query match accuracy on 40K+ record database.
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always open to discussing:
 - Data Science projects
