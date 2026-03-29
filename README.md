@@ -88,23 +88,6 @@ NLU-to-SQL pipeline achieving 78% query match accuracy on 40K+ record database.
   </a>
 </div>
 
-<details>
-<summary><b>View All Certifications</b></summary>
-
-**IBM**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="16"/> **IBM**: Data Warehouse Engineer, Data Analysis  
-
-**SQL**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="16"/> **SQL**: Intermediate Certified
-
-**Microsoft**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16"/> **Google**: Data Analytics, BigQuery  
-
-**Google**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="16"/> **Microsoft**: Power BI, Azure Fundamentals 
-
-</details>
-
 ---
 
 ## Let's Connect!
