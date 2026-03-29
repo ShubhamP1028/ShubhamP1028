@@ -1,21 +1,6 @@
 <!-- ![Shubham Pandey](https://github.com/user-attachments/assets/e84db8f1-86dc-46ad-90ee-5cf6e403a91d) -->
-
-
-<table align='center'>
-  <tbody>
-    <tr border="0" cellpadding="0" cellspacing="0">
-      <td width="70%" valign="top">
-        <!-- Left Column: Greeting and Intro -->
-        <h1 align='center' color=#32174d><b>👋🏻 Hello I'm Shubham</b> </h1>
-        <h2 align='center' color='#32174d'><b>Data Science Student & Machine Learning Enthusiast </b></h2>
-      </td>
-      <td width="30%" valign="top" align="right">
-        <!-- Right Column: Profile Picture -->
-        <img width="192" height="192" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/b7c5b608-5940-4056-b71c-78a78de58925" alt="Your Name" width="200"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h1 align='center' color=#32174d><b>👋🏻 Hello I'm Shubham</b> </h1>
+<h2 align='center' color='#32174d'><b>Data Science Student & Machine Learning Enthusiast </b></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham1028)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
