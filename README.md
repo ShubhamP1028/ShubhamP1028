@@ -1,11 +1,11 @@
 <!-- ![Shubham Pandey](https://github.com/user-attachments/assets/e84db8f1-86dc-46ad-90ee-5cf6e403a91d) -->
 
-<img src="https://giphy.com" width="150" alt="Hello Wave">
+<img src="Animation Smile GIF.gif" height=150 alt="Hello Wave">
 
 
 
 
-<h1 color=#32174d><b>👋🏻 Hello I'm Shubham</b> </h1>
+<h1 color=#32174d><b>I'm Shubham</b> </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham1028)
 [![Email](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
