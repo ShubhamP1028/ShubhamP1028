@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
 [![MyWorks](https://img.shields.io/badge/My%20Works-white?style=for-the-badge&logo=databricks)](https://pandeyshubham.vercel.app/)
 
-<h2 color='#32174d'><b>Data Engineer by trade, continuous learner by habit focused on the intersection of Analytics, Data and ML  </b></h2>
+<h2 color='#32174d'><b>Data Engineer, Learning and Working on the intersection of Analytics, Data and ML  </b></h2>
 
 
 <h3><b>Current Focus</b></h3>
