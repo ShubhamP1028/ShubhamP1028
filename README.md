@@ -1,6 +1,6 @@
 <!-- ![Shubham Pandey](https://github.com/user-attachments/assets/e84db8f1-86dc-46ad-90ee-5cf6e403a91d) -->
 <h1 align='center' color=#32174d><b>👋🏻 Hello I'm Shubham</b> </h1>
-<h2 align='center' color='#32174d'><b>Data Science Student & Machine Learning Enthusiast </b></h2>
+<h2 align='center' color='#32174d'><b>Data Engineer by trade, continuous learner by habit focused on the intersection of Analytics, Data and ML  </b></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham1028)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
@@ -9,9 +9,8 @@
 
 <h3><b>Current Focus</b></h3>
 
-- 🔭 Learning **Third Gen Neural Network** & **MLOps pipelines**
-- ⚔️ **Advanced NLP techniques and AgenticAI**
-- 👯 Looking for **Data Science** Internships and **Fresher** jobs.
+- Learning Enterprise Business Analytics and Data Engineering
+- Looking to work on freelance Data engineering projects.
 - 💬 Ask me about anything <a href='https://github.com/shubhamp1028/shubhamp1028/issues'>Here</a>.
 
 ---
