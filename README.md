@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham1028)
 [![Email](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
-[![MyWorks](https://img.shields.io/badge/My%20Works-white?style=for-the-badge&logo=databricks)](https://pandeyshubham.vercel.app/projects)
+[![MyWorks](https://img.shields.io/badge/My%20Works-white?style=for-the-badge&logo=databricks)](https://pandeyshubham.vercel.app/)
 
 <h2 color='#32174d'><b>Data Engineer, Learning and Working on the intersection of Analytics, Data and ML  </b></h2>
 
